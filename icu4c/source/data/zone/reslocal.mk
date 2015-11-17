@@ -1,0 +1,3 @@
+ZONE_SYNTHETIC_ALIAS = 
+ZONE_ALIAS_SOURCE = $(ZONE_SYNTHETIC_ALIAS)
+ZONE_SOURCE = en.txt en_001.txt en_150.txt en_GB.txt es_US.txt ru.txt

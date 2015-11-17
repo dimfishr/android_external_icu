@@ -4,6 +4,10 @@
 # A list of additional .ucm files to build for Google.
 # Note: noop-*.ucm are for Android only to prevent 2022 security attack.
 
+UCM_SOURCE_FILES = 
+
+UCM_SOURCE_EBCDIC = 
+
 UCM_SOURCE_LOCAL=gsm-03.38-2000.ucm \
    docomo-shift_jis-2012.ucm \
    jisx-208.ucm \
